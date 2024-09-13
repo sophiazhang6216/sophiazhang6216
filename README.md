@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Sophia Zhang👋
+
+## 😄 Pronouns: she/Her
+## 🌱 I’m currently a Computer Science and Operations and Strategic Management student at WashU
 
 <!--
 **sophiazhang6216/sophiazhang6216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
