@@ -1,7 +1,7 @@
 ## Hi there! I'm Sophia Zhang👋
 
 - 😄 Pronouns: she/her
-- 🌱 Computer Science and Operations and Strategic Management student at WashU
+- 🌱 Computer Science and Organizational and Strategic Management student at WashU
 - 🔭 Current SWE intern at Gekko Corporation
 - 📫 How to reach me: s.w.zhang@wustl.edu
 
